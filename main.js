@@ -6,5 +6,6 @@ setInterval(() => {
       Math.random() * 100
     }vh)`;
     bubble.style.background = `hsl(${Math.random() * 360}, 70%, 70%)`;
+    bubble.style.width = `${Math.random()* 100}px`
   });
 }, 2000);
