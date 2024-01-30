@@ -8,6 +8,6 @@
   width: 100px;
   height: 100px;
   background-color: hotpink;
-  border-radius: 100%;
+  border-radius: 80%;
   transition: all 2s;
 }
